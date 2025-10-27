@@ -84,7 +84,7 @@ These findings help insurers **identify high-risk customer profiles**.
 
 ---
 
-## 🖥️ Dashboard Screenshot
+## 🖥️ Dashboard
 <img width="1152" height="727" alt="Screenshot 2025-10-27 101404" src="https://github.com/user-attachments/assets/811c820e-ac2a-4543-bf4c-3b8e7b2ca490" />
 
 
